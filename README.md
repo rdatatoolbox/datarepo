@@ -11,8 +11,6 @@ and the
 [GdR EcoStat](https://sites.google.com/site/gdrecostat/).
 
 
-<br />
-
 ### Data description
 
 #### PanTHERIA [:globe_with_meridians:](https://esajournals.onlinelibrary.wiley.com/doi/10.1890/08-1494.1)
