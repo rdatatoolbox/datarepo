@@ -1,4 +1,4 @@
-# :mortar_board: Data repository <img src="https://raw.githubusercontent.com/rdatatoolbox/course-compendium/main/img/compendium-logo.png" height="120" align="right"/>
+# :mortar_board: Data repository
 
 [![License: CC
 BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgreen.svg)](https://choosealicense.com/licenses/cc-by-4.0/)
