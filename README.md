@@ -25,7 +25,7 @@ species-level database of life history, ecology, and geography of extant and
 recently extinct mammals. _Ecology_, 90, 2648. DOI: [10.1890/08-1494.1](https://doi.org/10.1890/08-1494.1)
 
 
-#### WWF Wildfinder [:globe_with_meridians:](https://www.worldwildlife.org/pages/wildfinder-database)
+#### WWF Wildfinder [:globe_with_meridians:](https://www.worldwildlife.org/publications/wildfinder-database)
 
 The WWF WildFinder database contains presence/absence data for the world's terrestrial amphibians, reptiles, birds, and mammals, by terrestrial ecoregion. In this repository, only 4,936 mammals species are provided. Data have cleaned and are structured in three `csv` files:
 
