@@ -38,4 +38,4 @@ The WWF WildFinder database contains presence/absence data for the world's terre
 
 ### Citation
 
-> Casajus N, Dray S, Gimenez O, Guéry L, Guilhaumon F & Schiettekatte NMD (2022) *Workshop FRB-CESAB & GdR EcoStat: Data Toolbox for Reproducible Research in Computational Ecology*. Zenodo. <http://doi.org/10.5281/zenodo.4262978>.
+> Casajus N, Bonnici I, Dray S, Gimenez O, Guéry L, Guilhaumon F, Schiettekatte NMD & Siberchicot A (2023) *Workshop FRB-CESAB & GdR EcoStat: Reproducible Research in Computational Ecology*. Zenodo. <http://doi.org/10.5281/zenodo.4262978>.
